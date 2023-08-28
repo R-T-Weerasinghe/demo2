@@ -6,4 +6,4 @@ Some text goes here
 
 how to branch in git
 
-how are you my friends
+how are you my friends.
